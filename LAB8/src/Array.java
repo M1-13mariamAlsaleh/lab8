@@ -5,7 +5,7 @@ public class Array {
  	 
 	 	public Array() { 
  	 	 
-	 	 	 	A = new int [10]   ; 
+	 	 	 	A = new int [100]   ; 
 	 	} 
  	 
 	 	public void setArray(int [] v){ 
